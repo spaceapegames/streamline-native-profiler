@@ -1,3 +1,4 @@
 .DS_Store
+*.sublime-workspace
 /src/libs/
 /src/obj/
